@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 058f57e786ecb224c936d0d3348296f6
+  - enabled: 1
+    path: Assets/Scenes/StageRestScene.unity
+    guid: 5bb582dc052a58a49af357c7e080ee4c
+  - enabled: 1
+    path: Assets/Scenes/ElderFightScene.unity
+    guid: d03a22649f9369f4cb037af23565a4cd
+  m_configObjects: {}
